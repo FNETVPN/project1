@@ -2,4 +2,4 @@
 
 https://fnetvpn.github.io/project1/
 
-https://fnetvpn.github.io/project1/gg.html
+https://fnetvpn.github.io/project1/web.html
