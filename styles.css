@@ -41,7 +41,7 @@
 
   --body-color: hsl(var(--hue), 100%, 99%);
 
-  --container-color: #fff;
+  --container-color: #fff; }
 
 ul.social-network {
 	list-style: none;
