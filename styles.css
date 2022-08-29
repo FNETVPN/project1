@@ -3,6 +3,7 @@ ul.social-network {
 	display: inline;
 	margin-left:0 !important;
 	padding: 0;
+background-color: red;
 }
 ul.social-network li {
 	display: inline;
