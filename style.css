@@ -7,6 +7,7 @@ ul.social-network {
 ul.social-network li {
 	display: inline;
 	margin: 0 5px;
+background-color: white;
 }
 
 .social-network a.icoRss:hover {
